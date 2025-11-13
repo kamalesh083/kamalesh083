@@ -1,127 +1,160 @@
-<!-- ==================== ANIMATED BANNER ==================== -->
+<!-- ==================== PREMIUM GITHUB PROFILE README ==================== -->
+
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/zYxUQ6k.gif" width="100%" alt="banner">
+  <img src="https://i.imgur.com/c9a0d7B.png" width="100%" alt="Kamalesh Banner"/>
 </p>
 
-<h1 align="center">✨ Hi, I'm <strong>Kamalesh</strong> ✨<br>🚀 Full-Stack Developer | Web3 | ML | Cloud Enthusiast</h1>
+<h1 align="center">
+  🌌 Kamalesh — Full Stack Developer | Web3 Explorer | ML Learner
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamalesh083&style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/kamalesh083?style=for-the-badge&color=brightgreen" />
-</p>
-
----
-
-# 👨‍💻 About Me
-
-💡 I love building **full-stack apps**, integrating **Machine Learning**, and experimenting with **Web3 & Smart Contracts**.  
-🎓 Currently working on:  
-- **Student Dropout Prediction System** (React + Node + Python ML)  
-- **Web3 Hospital Management System** (Solidity + React + MetaMask)  
-- **AI Notes App** (Firebase + HuggingFace)  
-
-🎯 On a disciplined **40-day MNC Placement Mission**  
-🏋️‍♂️ Gym 5–7:30 PM | Coding | Cloud | DSA | Communication  
-
----
-
-# ⚡ Tech Stack (Neon Icons)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,solidity,git,github,firebase,gcp,linux,vscode,bootstrap,tailwind" />
+  <img src="https://komarev.com/ghpvc/?username=kamalesh083&style=for-the-badge&color=violet" />
+  <img src="https://img.shields.io/github/followers/kamalesh083?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/badge/Location-India-red?style=for-the-badge" />
 </p>
 
 ---
 
-# 🛠 Technical Expertise
+# ✨ About Me  
+<p align="center">
+  <img src="https://i.imgur.com/8Qe7EwB.gif" width="60px"/>
+</p>
 
-| Category | Tools |
-|---------|-------|
-| **Frontend** | React, JavaScript (ES6+), Tailwind, React Native |
-| **Backend** | Node.js, Express.js, REST APIs |
-| **Blockchain** | Solidity, Hardhat, Web3.js, MetaMask |
-| **Databases** | MongoDB, Firestore |
-| **ML/AI** | Python, sklearn, prediction models |
-| **Cloud** | GCP (Dataproc, Dataflow, BigQuery ML, Vertex AI) |
-| **Tools** | VS Code, Postman, Git, Linux (Arch + Hyprland) |
+I am Kamalesh — a passionate **Full Stack Developer** currently diving deep into:
+
+- 🚀 **React + Node.js full-stack development**
+- 🔗 **Web3 basics** (Solidity + MetaMask)
+- 🧠 **Python-based ML models** for simple predictions
+- ☁️ **Cloud (beginner level)** — only learning basics now
+
+I’m also working on a **40-day mission to get placed in an MNC**, while maintaining a strong coding + gym routine every day.
+
+---
+
+# ⚡ Tech Stack I Know (Accurate & Beginner–Intermediate Friendly)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,solidity,git,github,firebase,linux,vscode,tailwind" />
+</p>
+
+---
+
+# 🧰 Technical Skills
+
+### 🎨 Frontend  
+- ReactJS  
+- JavaScript (ES6+)  
+- HTML5 / CSS3  
+- Tailwind CSS  
+- Responsive UI building  
+
+### ⚙ Backend  
+- Node.js  
+- Express.js  
+- REST API development  
+
+### 🔗 Blockchain (Beginner, still learning)  
+- Solidity basics  
+- Hardhat basic workflow  
+- MetaMask wallet connection  
+- Simple smart contract logic  
+
+### 🧠 Machine Learning  
+- Python (beginner ML)  
+- sklearn basics  
+- Small ML models (KNN, Regression, Classification)  
+
+### 🛠 Tools  
+- Git / GitHub  
+- VS Code  
+- Postman  
+- Linux (Arch + Hyprland)  
+- Firebase Authentication & Firestore basics  
+
+---
+
+# 🌥️ **Currently Learning (Cloud & Advanced Topics)**  
+*(Cloud moved here as you requested)*
+
+- Google Cloud Platform  
+- BigQuery basics  
+- Compute Engine basics  
+- Cloud IAM  
+- Cloud Storage  
+- (Will learn advanced concepts later)
 
 ---
 
 # 🚀 Featured Projects
 
-### 🔹 Student Dropout Prediction System  
-✔ React, Node.js, Express  
+### 🔹 **Student Dropout Prediction System**
+<p align="center">
+  <img src="https://i.imgur.com/v1OAgli.png" width="65%">
+</p>
+✔ React + Node  
 ✔ MongoDB  
-✔ Python ML (sklearn)  
-✔ Login system, dashboard, charts  
-
-### 🔹 Web3 Hospital Management  
-✔ Solidity Smart Contracts  
-✔ MetaMask Login  
-✔ Hardhat + React  
-
-### 🔹 Cloud AI Notes App  
-✔ Firebase Auth + Firestore  
-✔ HuggingFace summarizer  
-✔ Tag system + autosave  
+✔ Python ML  
+✔ Admin dashboard + charts  
 
 ---
 
-# 📊 GitHub Stats (Dark Theme)
-
+### 🔹 **Web3 Hospital Management**
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kamalesh083&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh083&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://i.imgur.com/0m3nENZ.png" width="65%">
+</p>
+✔ Solidity Smart Contract  
+✔ Wallet Authentication  
+✔ Hardhat + React Setup  
+
+---
+
+### 🔹 **AI Notes App**
+<p align="center">
+  <img src="https://i.imgur.com/PSlkrkC.png" width="65%">
+</p>
+✔ Firebase Auth  
+✔ Firestore Storage  
+✔ HuggingFace Summarizer  
+
+---
+
+# 📊 GitHub Stats  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kamalesh083&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh083&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
-
+# 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kamalesh083&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=kamalesh083&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
-
+# 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamalesh083&theme=dracula&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kamalesh083&theme=dracula&margin-w=10&no-frame=true" />
 </p>
 
 ---
 
-# 📈 Readme Metrics Dashboard
-
+# 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github-readme-metrics.vercel.app/api/?username=kamalesh083&template=classic&base=header%2C%20activity&config.timezone=Asia%2FKolkata" />
+  <img src="https://raw.githubusercontent.com/kamalesh083/kamalesh083/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# ⌛ WakaTime Coding Stats
-
-
----
-
-# 🌐 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kamalesh083/kamalesh083/output/grid-snake.svg" />
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-![Snake animation](https://raw.githubusercontent.com/kamalesh083/kamalesh083/output/github-contribution-grid-snake-dark.svg)
-
----
-
-# 📫 Contact Me  
+# 📫 Connect With Me  
 📧 Email: **kamaleshag96@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/a-g-kamalesh/**  
 
----
+<p align="center">
+  <img src="https://i.imgur.com/rVcYQFS.gif" width="120">
+</p>
 
-<h2 align="center">⭐ If you like my work, please consider giving a star to my repositories ⭐</h2>
+<h2 align="center">⭐ Like my work? Star my repositories! ⭐</h2>
