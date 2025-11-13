@@ -6,11 +6,11 @@
 
 ### 🪙 About Me
 
-- 🌐 I’m a passionate **Blockchain Developer** building secure and scalable decentralized applications.  
-- 🧩 Recently **created and deployed my own ERC-20 token (KT)** on the **Sepolia Testnet**.  
-- 💼 Built a **Smart Contract Wallet DApp** that manages both **ETH & KT tokens** with **MetaMask + Ethers.js v6**.  
-- ⚙️ Experienced with **React + TypeScript**, **Solidity**, **Hardhat**, **Node.js**, and **Firebase**.  
-- 🌱 Currently exploring **Smart Contract Security** & **Web3 integrations with AI**.  
+- 🌐 I’m a passionate **Blockchain Developer** focused on building secure, decentralized applications.  
+- 🧩 I’ve **created and deployed my own ERC-20 token (KT)** on the **Sepolia Testnet**.  
+- 💼 Built a **Smart Contract Wallet DApp** that manages both **ETH & KT Tokens** using **MetaMask + Ethers.js v6**.  
+- ⚙️ Skilled in **React + TypeScript**, **Solidity**, **Hardhat**, **Node.js**, and **Firebase**.  
+- 🌱 Currently exploring **Smart Contract Security** and **AI-powered Web3 integrations**.  
 - 📫 Reach me at: **kamalesh.dev.contact@gmail.com**
 
 ---
@@ -40,12 +40,12 @@
 ### 🚀 Featured Project — **Owner Wallet + KT Token DApp**
 
 💼 **Description:**
-> Created and deployed a **custom ERC-20 token (KT)** on Sepolia and developed a **React + TypeScript DApp** for managing both **ETH and KT tokens**.  
-> Integrated **MetaMask**, **Ethers.js v6**, and **Smart Contract Wallet Logic** to support:
+> I developed and deployed a **custom ERC-20 token (KT)** on Sepolia and built a full-stack **React + TypeScript DApp** to manage it.  
+> Integrated **MetaMask**, **Ethers.js v6**, and **Smart Contract Wallet Logic** for:
 > - 🔗 Wallet Connection  
-> - 💰 ETH & Token Deposit / Transfer  
-> - 🧾 Real-time Balances  
-> - 🛡 Owner-only Access Control  
+> - 💰 ETH & KT Token Deposits and Transfers  
+> - 🧾 Real-Time Balances  
+> - 🛡 Owner-Only Access Control  
 
 🪙 **KT Token Address:** `0xe518886da12A3483B0794dAbA31Ec8d13a36D039`  
 ⚙️ **Smart Contract Wallet Address:** `0x6a3C185c75D522228B2CE12576aD8068BA8be3b6`  
@@ -56,23 +56,39 @@
 
 ---
 
-### 🎯 Interview-Focused Highlights
+### 🎯 Interview Highlights
 
 | 🔍 Topic | 💡 Why It Matters |
 |----------|------------------|
-| **ERC-20 Token Mechanics** | Core to all blockchain interviews — shows token standard knowledge. |
-| **Smart Contract Ownership & Security** | Demonstrates real-world control logic. |
-| **MetaMask & Ethers.js Integration** | Essential for any front-end dApp dev role. |
-| **Provider ↔ Signer Flow** | Proves understanding of blockchain state management. |
-| **Contract-Based Transfers** | Advanced logic showing dApp maturity. |
+| **ERC-20 Token Mechanics** | Core blockchain concept every dev must know. |
+| **Smart Contract Ownership & Security** | Demonstrates practical control logic. |
+| **MetaMask & Ethers.js Integration** | Essential for dApp-frontend development. |
+| **Provider ↔ Signer Flow** | Shows backend interaction understanding. |
+| **Contract-Based Transfers** | Advanced real-world dApp use case. |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamaleshAG&show_icons=true&theme=tokyonight" alt="kamalesh stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshAG&layout=compact&theme=tokyonight" alt="languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kamaleshAG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="Kamalesh's GitHub stats" 
+    height="160px"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshAG&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+    height="160px"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=kamaleshAG&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+    height="160px"
+  />
 </p>
 
 ---
@@ -80,14 +96,14 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/a-g-kamalesh" target="_blank">
+  <a href="https://linkedin.com/in/kamalesh-ag" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/kamalesh083" target="_blank">
+  <a href="https://github.com/kamaleshAG" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h4 align="center">⭐ Star my repositories if you like my work!</h4>
+<h4 align="center">⭐ Star my repositories if you like my work! 🚀</h4>
