@@ -1,35 +1,93 @@
-<h1 align="center">Hi 👋, I'm A G Kamalesh</h1>
-<h3 align="center">Crafting Modern Web & Web3 Experiences</h3>
+<h1 align="center">Hey there 👋, I'm Kamalesh</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalesh083&label=Profile%20views&color=0e75b6&style=flat" alt="kamalesh083" /> </p>
+<h3 align="center">💻 Web3 | Blockchain | Full-Stack Developer 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalesh083" alt="kamalesh083" /></a> </p>
+---
 
-- 🔭 I’m currently working on [E-commerce site](https://github.com/kamalesh083/e-commerce)
+### 🪙 About Me
 
-- 🌱 I’m currently learning **React Advanced Concepts • Tailwind CSS • Node.js API Best Practices • Web3 (Solidity, Hardhat, MetaMask, Smart Contracts) • Google Cloud Basics**
+- 🌐 I’m a passionate **Blockchain Developer** building secure and scalable decentralized applications.  
+- 🧩 Recently **created and deployed my own ERC-20 token (KT)** on the **Sepolia Testnet**.  
+- 💼 Built a **Smart Contract Wallet DApp** that manages both **ETH & KT tokens** with **MetaMask + Ethers.js v6**.  
+- ⚙️ Experienced with **React + TypeScript**, **Solidity**, **Hardhat**, **Node.js**, and **Firebase**.  
+- 🌱 Currently exploring **Smart Contract Security** & **Web3 integrations with AI**.  
+- 📫 Reach me at: **kamalesh.dev.contact@gmail.com**
 
-- 👯 I’m looking to collaborate on [Web3 Projects](https://github.com/kamalesh083/Web---3.O)
+---
 
-- 👨‍💻 All of my projects are available at [https://kamalesh-portfolio-two.vercel.app/](https://kamalesh-portfolio-two.vercel.app/)
+### 🧠 Skills & Tools
 
-- 💬 Ask me about **React, Node.js, MongoDB, JavaScript, Solidity Basics**
+#### 💻 **Languages**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- 📫 How to reach me **kamaleshag96@gmail.com**
+#### 🧰 **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Hardhat](https://img.shields.io/badge/Hardhat-FCC624?style=for-the-badge&logo=ethereum&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
 
-- ⚡ Fun fact **I break things to learn… and then fix them better 😄**
+#### 🧩 **Developer Tools**
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FD6C35?style=for-the-badge&logo=postman&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kamalesh_a_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamalesh_a_g" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/a-g-kamalesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/a-g-kamalesh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kamaleshag96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kamaleshag96/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/kamalesh09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/kamalesh09/" height="30" width="40" /></a>
+---
+
+### 🚀 Featured Project — **Owner Wallet + KT Token DApp**
+
+💼 **Description:**
+> Created and deployed a **custom ERC-20 token (KT)** on Sepolia and developed a **React + TypeScript DApp** for managing both **ETH and KT tokens**.  
+> Integrated **MetaMask**, **Ethers.js v6**, and **Smart Contract Wallet Logic** to support:
+> - 🔗 Wallet Connection  
+> - 💰 ETH & Token Deposit / Transfer  
+> - 🧾 Real-time Balances  
+> - 🛡 Owner-only Access Control  
+
+🪙 **KT Token Address:** `0xe518886da12A3483B0794dAbA31Ec8d13a36D039`  
+⚙️ **Smart Contract Wallet Address:** `0x6a3C185c75D522228B2CE12576aD8068BA8be3b6`  
+🌐 **Network:** Sepolia Testnet  
+
+📂 **Tech Stack:**  
+`Solidity` • `Hardhat` • `React + TypeScript` • `Ethers.js` • `MetaMask` • `Vite`
+
+---
+
+### 🎯 Interview-Focused Highlights
+
+| 🔍 Topic | 💡 Why It Matters |
+|----------|------------------|
+| **ERC-20 Token Mechanics** | Core to all blockchain interviews — shows token standard knowledge. |
+| **Smart Contract Ownership & Security** | Demonstrates real-world control logic. |
+| **MetaMask & Ethers.js Integration** | Essential for any front-end dApp dev role. |
+| **Provider ↔ Signer Flow** | Proves understanding of blockchain state management. |
+| **Contract-Based Transfers** | Advanced logic showing dApp maturity. |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamaleshAG&show_icons=true&theme=tokyonight" alt="kamalesh stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshAG&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalesh083&show_icons=true&locale=en&layout=compact" alt="kamalesh083" /></p>
+### 🌐 Connect With Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalesh083&" alt="kamalesh083" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/a-g-kamalesh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kamalesh083" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h4 align="center">⭐ Star my repositories if you like my work!</h4>
