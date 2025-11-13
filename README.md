@@ -11,7 +11,7 @@
 - 💼 Built a **Smart Contract Wallet DApp** that manages both **ETH & KT Tokens** using **MetaMask + Ethers.js v6**.  
 - ⚙️ Skilled in **React + TypeScript**, **Solidity**, **Hardhat**, **Node.js**, and **Firebase**.  
 - 🌱 Currently exploring **Smart Contract Security** and **AI-powered Web3 integrations**.  
-- 📫 Reach me at: **kamalesh.dev.contact@gmail.com**
+- 📫 Reach me at: **kamaleshag96@gmail.com**
 
 ---
 
@@ -72,12 +72,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=kamaleshAG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=kamalesh083&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
     alt="Kamalesh's GitHub stats" 
     height="160px"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshAG&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh083&layout=compact&theme=tokyonight&hide_border=true" 
     alt="Top Languages" 
     height="160px"
   />
@@ -85,7 +85,7 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=kamaleshAG&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=kamalesh083&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak" 
     height="160px"
   />
