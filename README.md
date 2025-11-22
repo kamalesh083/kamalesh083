@@ -52,6 +52,8 @@
 
 #### 💾 **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 
 ---
@@ -115,10 +117,10 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/kamalesh-ag" target="_blank">
+  <a href="https://linkedin.com/in/a-g-kamalesh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/kamaleshAG" target="_blank">
+  <a href="https://github.com/kamalesh083" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
